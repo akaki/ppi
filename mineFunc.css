@@ -1,0 +1,19 @@
+#ppiblacker{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 9999999999;
+    background: rgba(82,82,82,0.8);
+}
+
+#miniBlacker{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 9999999999;
+    background: rgba(82,82,82,0.8);
+}

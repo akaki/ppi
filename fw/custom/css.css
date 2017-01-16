@@ -1,0 +1,69 @@
+html,body {
+    margin:0;
+    padding:0;
+    height:100%; /* needed for container min-height */
+	
+    font-family:arial,sans-serif;
+    font-size:small;
+}
+
+
+#col_choose {
+
+}
+
+
+#col_config{
+border-left:1px solid #bfbfbf;
+border-right:1px solid #bfbfbf;
+min-height:400px;
+}
+
+#col_show{
+
+}
+
+#serv_select_pool{
+
+}
+.serv_select{
+height: 70px;
+width: 70px;
+text-align: center;
+border: 1px solid #bfbfbf;
+float: left;
+margin: 10px;
+border-radius: 5px;
+}
+.serv_select #title{
+display:block;
+margin-left:auto;
+margin-right:auto;
+}
+
+
+.serv_select #icon{
+font-size: 20px;
+display:block;
+margin-left:auto;
+margin-right:auto;
+margin-top:5px;
+}
+
+
+.serv_select input{
+display:block;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:20px;
+margin-top:5px;
+
+}
+
+
+
+
+
+
+
+
